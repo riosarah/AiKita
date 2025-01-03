@@ -1,0 +1,70 @@
+body{
+    margin:2vw;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: linear-gradient(180deg, #DB7A32 0%, #f3c8a7 100%);
+}
+#head{
+    background: linear-gradient(90deg, #f3c8a7 0%, #1E3D3C 100%);
+    border-radius:1vw;
+    padding:1vw;
+    padding-right:8vw;
+    text-align:right;
+    margin-bottom:2vw;
+    
+}
+#header{
+    color:white;
+    font-size:7vw;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow:1px 3px 6px #258E8F;
+}
+#Menu{
+    background-color: beige;
+    border-radius:1vw;
+}
+.MenuItem{
+    color:white;
+    background-color:#DB7A32;
+    margin:1vw;
+    border-radius:1vw;
+    font-weight:bold;
+    font-stretch: condensed;
+    padding:1vw;
+    margin-top:3vw;
+    font-size:2.4vw;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
+#Teiler{
+    display:grid;
+    grid-template-columns: 20% auto;
+    height:90vw;
+    grid-template-rows:100%;
+    grid-gap:2vw;    
+    
+}
+#Tool{
+    border-radius:1vw;
+    display:grid;
+    margin-right:2vw;
+    grid-template-columns: 50% 50%;
+    grid-gap:2vw;
+}
+.ToolHeader{
+    background-color:#258E8F;
+    padding:2vw;
+    border-radius:1vw;
+    margin-top:0vw;
+    color:white;
+    text-shadow: 1vw 1vw 1vw #1E3D3C;
+}
+.Planung{
+    font-size:3vw;
+    background-color:white;
+    border-radius:1vw;
+    text-align:center;
+}
+#Abfrage{}
+#Entwicklungsbereich{}
+#Ziele{}
+#Impuls{}
