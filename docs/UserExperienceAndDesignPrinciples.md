@@ -6,8 +6,6 @@
 
 ### User-Friendliness and Accessibility
 
-_Note: Should the software be available to parents and supporting staff right from the start?_
-
 Our software will be used by individuals with varying levels of digital literacy. To ensure usability for early childhood educators as well as parents and supporting staff with no pedagogical background, the user interface (UI) should include:
 
 #### Simplicity and Intuitiveness
