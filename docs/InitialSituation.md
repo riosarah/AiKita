@@ -3,13 +3,11 @@
 ## Initial Situation
 
 ### Problem definition:
-Early childhood educators (ECE) are facing increasing demands that have left them stressed and resorting to use unpaid overtime to meet legal requirenments.
+
+The increasing amount of written documentation, which has been mandated in recent years, has resulted in kindergarten teachers having barely enough time to prepare. This is leading to increased stress and a need to work overtime, leaving less and less time for rest and recovery. 
 
 <details>
 <summary> Read more about the struggles ECEs face </summary>
-
-----
-The increasing amount of written documentation, which has been mandated in recent years, has resulted in kindergarten teachers having barely enough time to prepare. This is leading to increased stress and a need to work overtime, leaving less and less time for rest and recovery. 
 
 Additionally, **parents' expectations** of kindergartens are constantly rising, demanding optimal preparation for their children's schooling.
 Kindergarten teacher and personnel representative Julia Fichtl reports regular overtime and parents who are making ever more demands. Nothing that is offered in kindergarten in terms of educational activities is by chance, explains Julia Fichtl in an interview in 2018 with oegb.at.
