@@ -28,8 +28,6 @@
     **Example:** An educational publisher pays €500/month for a sponsorship contract.
     
 
----
-
 ## Pricing Strategy
 
 1. **Introductory Price**  
@@ -45,8 +43,6 @@
     Present a free basic version of the software with limited features, which can be upgraded to paid tiers offering more comprehensive functionalities.
     
 
----
-
 ## Potential Revenue Sources
 
 **Public and Private Kindergartens**  
@@ -56,16 +52,12 @@
 	If 100 kindergartens with 5 users each pay €10/month:  
 	`100 * 5 * €10/month = €5,000/month`
 
----
-
 **Parents and Supporting Staff**  
 	A secondary market for in-app purchases, premium content, or advertising.
 
 **Example:**  
 	If 50 parents purchase premium content at €10 per plan:  
 	`50 * €10 = €500`
-
----
 
 **Partnerships with Educational Companies**  
 	Collaboration with publishers or educational product vendors can yield sponsorship fees or advertising revenue.
