@@ -5,8 +5,6 @@
 
 This project offers a **secure, AI-driven platform** tailored for early childhood education. By integrating **local data collection** (via Python + PyQt) with a **scalable cloud backend** (Django, Celery, SQL/NoSQL databases), the solution empowers educators and administrators to gather real-time insights, comply with **GDPR**, and adhere to **Austrian educational standards**.
 
----
-
 ## [System Concepts](docs/SystemConcepts.md)
 
 Our architecture is composed of distinct yet interconnected components:
@@ -29,8 +27,6 @@ Our architecture is composed of distinct yet interconnected components:
     - Django’s built-in **Admin Interface** enables system configuration, data management, and user role assignments.
     - Logs and audit trails ensure transparency and simplify troubleshooting.
 
----
-
 ## [User Experience and Design Principles](docs/UserExperienceAndDesignPrinciples.md)
 
 Our approach prioritizes **user-friendliness** and **accessibility**, featuring:
@@ -38,8 +34,6 @@ Our approach prioritizes **user-friendliness** and **accessibility**, featuring:
 - **Intuitive UI & Guided Tutorials**: Clear navigation, context-sensitive help, and step-by-step onboarding.
 - **Customizable Settings**: Adjustable fonts, contrast options, and language expansions to serve diverse user needs.
 - **Inclusive Education**: Compatibility with assistive technologies, ensuring educators, parents, and staff with varying digital literacy levels can effectively use the software.
-
----
 
 ## [Financial and Monetization Strategy](docs/FinancialAndMonetizationStrategy.md)
 
@@ -54,8 +48,6 @@ To ensure the project’s viability, we employ multiple revenue streams:
 - **Budget Management**  
     By prioritizing core functionalities and using open-source solutions, we keep development costs under control and plan for long-term sustainability.
 
----
-
 ## [Constraints and Compliance](docs/ConstraintsAndCompliance.md)
 
 Key constraints reflect the **technical, legal, and operational** environment:
@@ -68,8 +60,6 @@ Key constraints reflect the **technical, legal, and operational** environment:
     The infrastructure is designed to handle increasing user numbers and large datasets with minimal slowdowns.
 - **Time and Budget**  
     A 14-month roadmap with iterative testing ensures timely delivery, while resource allocation supports evolving requirements.
-
----
 
 ## [Security](docs/Security.md)
 
@@ -84,8 +74,6 @@ Security is integral at every stage:
 - **Incident Response**  
     A documented plan for data breaches or system failures ensures swift mitigation and regulatory compliance.
 
----
-
 ## [Risk Mitigation](docs/RiskMitigation.md)
 
 We employ strategies to address common and project-specific risks:
@@ -98,8 +86,6 @@ We employ strategies to address common and project-specific risks:
     Continuous monitoring of GDPR changes and Austrian educational guidelines ensures ongoing compliance.
 - **Contingency Planning**  
     Maintain robust backups, a disaster recovery protocol, and clear workflows for critical system updates.
-
----
 
 ## [Marketing and Future Outlook](docs/MarketingAndFutureOutlook.md)
 
