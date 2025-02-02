@@ -1,9 +1,31 @@
 # AiKita
 
 
-## [Project Overview](docs/ProjectOverview.md)
+## [Project Overview](docs/ProjectOverviewAndObjectives.md)
 
 This project offers a **secure, AI-driven platform** tailored for early childhood education. By integrating **local data collection** (via Python + PyQt) with a **scalable cloud backend** (Django, Celery, SQL/NoSQL databases), the solution empowers educators and administrators to gather real-time insights, comply with **GDPR**, and adhere to **Austrian educational standards**.
+
+## [Initial Situation](docs/InitialSituation.md)
+
+Early childhood educators (ECE) are facing increasing demands that have left them stressed and resorting to use unpaid overtime to meet legal requirenments.
+The time varies across states and can be as little as 5 hours. 
+It includes:
+* preparation and coordination of educational and upbringing work
+* further training
+* parent counseling
+* administrative tasks
+* individual intervention planning
+
+## [Target Group](docs/TargetGroup.md)
+
+This project focuses on early childhood educators working with children aged 3 to 6 in kindergarten settings. These professionals support learning through play-based and structured activities, monitor developmental milestones, document behavior, and create an environment that fosters growth.
+
+## [Market Analysis](docs/MarketAnalysis.md)
+
+In general, the use and dissemination of digital tools for observing and documenting children's development is increasing worldwide in the early childhood sector.
+* German speaking markets lack behind international development
+* AI educational apps experience a boom
+* Competitive pressure low in pedagogy planning niche. Expected to rise.
 
 ## [System Concepts](docs/SystemConcepts.md)
 
