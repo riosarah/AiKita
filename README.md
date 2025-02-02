@@ -1,0 +1,2 @@
+# AiKita
+Project planning repo
