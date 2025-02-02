@@ -67,5 +67,5 @@
 	`3 * €500/month = €1,500/month`
 
 
-
+---
 [Back to Main README](../README.md)
