@@ -68,5 +68,5 @@
     Ensure the software accommodates diverse needs and backgrounds, with culturally sensitive and appropriate content and activities for all children.
     
 
-
+---
 [Back to Main README](../README.md)
