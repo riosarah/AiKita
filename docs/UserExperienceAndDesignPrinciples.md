@@ -53,5 +53,5 @@ Our software will be used by individuals with varying levels of digital literacy
 
 Our software should be user-friendly and accessible, catering to both early childhood educators and parents or supporting staff who may have limited technical or pedagogical expertise.
 
-
+---
 [Back to Main README](../README.md)
