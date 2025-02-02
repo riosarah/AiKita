@@ -1,13 +1,13 @@
 # AiKita
 
 
-## [Project Overview](#project-overview)
+## [Project Overview](docs/ProjectOverview.md)
 
 This project offers a **secure, AI-driven platform** tailored for early childhood education. By integrating **local data collection** (via Python + PyQt) with a **scalable cloud backend** (Django, Celery, SQL/NoSQL databases), the solution empowers educators and administrators to gather real-time insights, comply with **GDPR**, and adhere to **Austrian educational standards**.
 
 ---
 
-## [System Concepts](#system-concepts)
+## [System Concepts](docs/SystemConcepts.md)
 
 Our architecture is composed of distinct yet interconnected components:
 
@@ -31,7 +31,7 @@ Our architecture is composed of distinct yet interconnected components:
 
 ---
 
-## [User Experience and Design Principles](#user-experience-and-design-principles)
+## [User Experience and Design Principles](docs/UserExperienceAndDesignPrinciples.md)
 
 Our approach prioritizes **user-friendliness** and **accessibility**, featuring:
 
@@ -41,7 +41,7 @@ Our approach prioritizes **user-friendliness** and **accessibility**, featuring:
 
 ---
 
-## [Budget](#budget)
+## [Budget](docs/Budget.md)
 
 We aim for **cost-effective development** and sustainable operation:
 
@@ -54,7 +54,7 @@ We aim for **cost-effective development** and sustainable operation:
 
 ---
 
-## [Financial and Monetization Strategy](#financial-and-monetization-strategy)
+## [Financial and Monetization Strategy](docs/FinancialAndMonetizationStrategy.md)
 
 To ensure the project’s viability, we employ multiple revenue streams:
 
@@ -69,7 +69,7 @@ To ensure the project’s viability, we employ multiple revenue streams:
 
 ---
 
-## [Constraints and Compliance](#constraints-and-compliance)
+## [Constraints and Compliance](docs/ConstraintsAndCompliance.md)
 
 Key constraints reflect the **technical, legal, and operational** environment:
 
@@ -84,7 +84,7 @@ Key constraints reflect the **technical, legal, and operational** environment:
 
 ---
 
-## [Security](#security)
+## [Security](docs/Security.md)
 
 Security is integral at every stage:
 
@@ -99,7 +99,7 @@ Security is integral at every stage:
 
 ---
 
-## [Risk Mitigation](#risk-mitigation)
+## [Risk Mitigation](docs/RiskMitigation.md)
 
 We employ strategies to address common and project-specific risks:
 
@@ -114,7 +114,7 @@ We employ strategies to address common and project-specific risks:
 
 ---
 
-## [Marketing and Future Outlook](#marketing-and-future-outlook)
+## [Marketing and Future Outlook](docs/MarketingAndFutureOutlook.md)
 
 We plan a **multi-pronged marketing strategy** to engage educational stakeholders:
 
