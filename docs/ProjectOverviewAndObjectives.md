@@ -1,3 +1,5 @@
+[Back to Main README](../README.md)
+
 ## Project Overview
 This software is designed to support educators in planning educational 
 processes based on children's behavior. By analysing observed behaviors with AI 
@@ -14,3 +16,5 @@ the pedagogical sector
 Our software is designed to actively support educators in their daily work in kindergarten. 
 It aims to address the most important core tasks of educators: recording children's behaviour 
 and planning targeted pedagogical impulses. 
+
+[Back to Main README](../README.md)
