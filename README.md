@@ -41,19 +41,6 @@ Our approach prioritizes **user-friendliness** and **accessibility**, featuring:
 
 ---
 
-## [Budget](docs/Budget.md)
-
-We aim for **cost-effective development** and sustainable operation:
-
-- **Open-Source Tools**  
-    Favoring widely adopted, community-driven libraries and frameworks helps limit licensing costs.
-- **Prioritized Features**  
-    Essential functionalities are developed first to stay within budget, with a roadmap for future improvements.
-- **Maintenance & Updates**  
-    A dedicated allowance for bug fixes, performance enhancements, and security patches ensures longevity and customer satisfaction.
-
----
-
 ## [Financial and Monetization Strategy](docs/FinancialAndMonetizationStrategy.md)
 
 To ensure the project’s viability, we employ multiple revenue streams:
