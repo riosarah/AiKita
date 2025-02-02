@@ -8,7 +8,7 @@ the pedagogical sector
 <details>
     <summary>See the process </summary>
   
- ![plantUML diagram of AiKita process](./Process_uml.png)
+ ![plantUML diagram of AiKita process](../img/Process_uml.png)
     
 </details>
 
