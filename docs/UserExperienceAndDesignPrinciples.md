@@ -1,6 +1,6 @@
 [Back to Main README](../README.md)
 
-# Design und User Experience (UX)
+# Design und User Experience
 
 ## UX/UI Design Principles and Accessibility
 
