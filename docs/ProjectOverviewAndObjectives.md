@@ -5,12 +5,9 @@ and suggests educational areas, goals, and activities, this software sets itself
 apart from any other planning software currently available on the market for 
 the pedagogical sector
 
-<details>
-    <summary>See the process </summary>
-  
+
  ![plantUML diagram of AiKita process](../img/Process_uml.png)
     
-</details>
 
 ## Objectives
 
