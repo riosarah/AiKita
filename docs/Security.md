@@ -20,5 +20,5 @@
 - **Compliance Focus:**  
     Every element of the system is designed with GDPR compliance in mind, and comprehensive documentation of data handling practices will be maintained.
 
-
+---
 [Back to Main README](../README.md)
