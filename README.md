@@ -1,6 +1,11 @@
 # AiKita
 
+**Team members**
+* Sarah Rio
+* Ralph Mann
+* Jürgen Huber
 
+  
 ## [Project Overview](docs/ProjectOverviewAndObjectives.md)
 
 This project offers a **secure, AI-driven platform** tailored for early childhood education. By integrating **local data collection** (via Python + PyQt) with a **scalable cloud backend** (Django, Celery, SQL/NoSQL databases), the solution empowers educators and administrators to gather real-time insights, comply with **GDPR**, and adhere to **Austrian educational standards**.
