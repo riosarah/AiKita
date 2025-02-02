@@ -14,10 +14,6 @@
     Users pay a discounted yearly fee compared to month-to-month billing.  
     **Example:** €100/year per user (approximately €8.33/month).
     
-
-> **Note:**  
-> This tiered model (monthly vs. annual) aligns with our sustainability approach by creating a predictable income stream.
-
 ### Advertising
 
 1. **Banner Ads**  
