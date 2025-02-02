@@ -40,7 +40,6 @@ In general, the use and dissemination of digital tools for observing and documen
 <details>
 <summary> Interview on the reception of technology in Early Childhood Education</summary>
 
-![Ulrike Schwung kindergarten superviser](../img/Uli.jpg)
 
 **The reception of technology in Early Childhood Education**
 
