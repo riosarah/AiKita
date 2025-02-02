@@ -1,6 +1,6 @@
 [Back to Main README](../README.md)
 
-## Opportunities and Risks 
+## Opportunities and Risks
 
 ### Opportunities
 
