@@ -30,7 +30,7 @@ The group-work-free service time is the time that pedagogical professionals have
 
 </details>
 
-![Preparation time insufficient for ECE workers](img/VorbereitungszeitDiagram.png)
+![Preparation time insufficient for ECE workers](../img/VorbereitungszeitDiagram.png)
 
 ```Description Diagram:
 Is the allocated childfree time (a.k.a planing time) sufficiant?
