@@ -8,8 +8,9 @@
 
 ![statista](../img/statista.png)
 
-![target group](../img/targetGroup.png)
-
 ![2023](../img/v2023.png)
 
+![target group](../img/targetGroup.png)
+
+---
 [Back to Main README](../README.md)
