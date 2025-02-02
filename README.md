@@ -87,7 +87,7 @@ We employ strategies to address common and project-specific risks:
 - **Contingency Planning**  
     Maintain robust backups, a disaster recovery protocol, and clear workflows for critical system updates.
 
-## [Marketing and Future Outlook](docs/MarketingAndFutureOutlook.md)
+## [Marketing](docs/Marketing.md)
 
 We plan a **multi-pronged marketing strategy** to engage educational stakeholders:
 
