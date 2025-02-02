@@ -3,12 +3,12 @@
 
 The number of ECE's has been steadily growing in the past decade. Considering that most kindergarten and nursery schools are still understaffed, the numbers are predicted to rise even more. 
 
-![Statistics on early childhood educators in austria](img/Kiga.png)
+![Statistics on early childhood educators in austria](../img/Kiga.png)
 
 <details>
   <summary>More on this statistics</summary>
   
-  ![Statistics on early childhood educators in austria](img/InfoTextKiga.png)
+  ![Statistics on early childhood educators in austria](../img/InfoTextKiga.png)
   
 </details>
 
@@ -34,9 +34,13 @@ Even though the use of computers in kindergarten institutions has already become
 In general, the use and dissemination of digital tools for observing and documenting children's development is increasing worldwide in the early childhood sector (Flewitt & Cowan 2019; Knauf 2020b; White et al. 2021). Stratigos and Fenech (2021) as well as Flewitt and Cowan (2019) each report a growing use and spread of such tools in Australia, New Zealand, the USA, Canada, and the United Kingdom.
 *["Scheidt, A., Klein, C., Bempreiksz-Luthardt, J. 2022: Digitalisierung der KiTa. In: Dreyer, R. Hrsg.: Kita-Fachtexte, Nr. 4/2022. Berlin: Fröbel e. V."](https://nbn-resolving.org/urn:nbn:de:kobv:b1533-opus-5010)[fachtexte ](https://www.kita-fachtexte.de/de/fachtexte-finden/digitalisierung-der-kita.) [Zugriff am 31.01.2025.]*
 
+---
+
+![Ulrike Schwung kindergarten superviser](../img/Uli.jpg)
 <details>
 <summary> Interview on the reception of technology in Early Childhood Education</summary>
-------------------
+
+![Ulrike Schwung kindergarten superviser](../img/Uli.jpg)
 
 **The reception of technology in Early Childhood Education**
 
