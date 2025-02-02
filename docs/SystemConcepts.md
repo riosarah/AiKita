@@ -32,12 +32,12 @@
                          |  | Secure Transmission (HTTPS) |    |
                          |  |   via requests library      |    |
                          |  +-------------+---------------+    |
-                         +---------------------|---------------+
-                                               |
-                                               v
-                                   [ Internet / Secure Channel ]
-                                               |
-                                               v
+                         +----------------|--------------------+
+                                          |
+                                          v
+                              [ Internet / Secure Channel ]
+                                          |
+                                          v
                          +-------------------------------------+
                          |         Cloud Backend (Django)      |
                          |                                     |
