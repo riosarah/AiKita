@@ -104,7 +104,7 @@ Key constraints reflect the **technical, legal, and operational** environment:
 
 [More...](docs/ConstraintsAndCompliance.md)
 
-## [Security](docs/Security.md)
+## [Security](docs/SecurityTxt.md)
 
 Security is integral at every stage:
 
