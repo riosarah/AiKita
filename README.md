@@ -10,6 +10,8 @@
 
 This project offers a **secure, AI-driven platform** tailored for early childhood education. By integrating **local data collection** (via Python + PyQt) with a **scalable cloud backend** (Django, Celery, SQL/NoSQL databases), the solution empowers educators and administrators to gather real-time insights, comply with **GDPR**, and adhere to **Austrian educational standards**.
 
+[More...](docs/ProjectOverviewAndObjectives.md)
+
 ## [Initial Situation](docs/InitialSituation.md)
 
 Early childhood educators (ECE) are facing increasing demands that have left them stressed and resorting to use unpaid overtime to meet legal requirenments.
@@ -21,9 +23,13 @@ It includes:
 * administrative tasks
 * individual intervention planning
 
+[More...](docs/InitialSituation.md)
+
 ## [Target Group](docs/TargetGroup.md)
 
 This project focuses on early childhood educators working with children aged 3 to 6 in kindergarten settings. These professionals support learning through play-based and structured activities, monitor developmental milestones, document behavior, and create an environment that fosters growth.
+
+[More...](docs/TargetGroup.md)
 
 ## [Market Analysis](docs/MarketAnalysis.md)
 
@@ -31,6 +37,8 @@ In general, the use and dissemination of digital tools for observing and documen
 * German speaking markets lack behind international development
 * AI educational apps experience a boom
 * Competitive pressure low in pedagogy planning niche. Expected to rise.
+
+[More...](docs/MarketAnalysis.md)
 
 ## [System Concepts](docs/SystemConcepts.md)
 
@@ -54,6 +62,8 @@ Our architecture is composed of distinct yet interconnected components:
     - Django’s built-in **Admin Interface** enables system configuration, data management, and user role assignments.
     - Logs and audit trails ensure transparency and simplify troubleshooting.
 
+[More...](docs/SystemConcepts.md)
+
 ## [User Experience and Design Principles](docs/UserExperienceAndDesignPrinciples.md)
 
 Our approach prioritizes **user-friendliness** and **accessibility**, featuring:
@@ -61,6 +71,8 @@ Our approach prioritizes **user-friendliness** and **accessibility**, featuring:
 - **Intuitive UI & Guided Tutorials**: Clear navigation, context-sensitive help, and step-by-step onboarding.
 - **Customizable Settings**: Adjustable fonts, contrast options, and language expansions to serve diverse user needs.
 - **Inclusive Education**: Compatibility with assistive technologies, ensuring educators, parents, and staff with varying digital literacy levels can effectively use the software.
+
+[More...](docs/UserExperienceAndDesignPrinciples.md)
 
 ## [Financial and Monetization Strategy](docs/FinancialAndMonetizationStrategy.md)
 
@@ -75,6 +87,8 @@ To ensure the project’s viability, we employ multiple revenue streams:
 - **Budget Management**  
     By prioritizing core functionalities and using open-source solutions, we keep development costs under control and plan for long-term sustainability.
 
+[More...](docs/FinancialAndMonetizationStrategy.md)
+
 ## [Constraints and Compliance](docs/ConstraintsAndCompliance.md)
 
 Key constraints reflect the **technical, legal, and operational** environment:
@@ -87,6 +101,8 @@ Key constraints reflect the **technical, legal, and operational** environment:
     The infrastructure is designed to handle increasing user numbers and large datasets with minimal slowdowns.
 - **Time and Budget**  
     A 14-month roadmap with iterative testing ensures timely delivery, while resource allocation supports evolving requirements.
+
+[More...](docs/ConstraintsAndCompliance.md)
 
 ## [Security](docs/Security.md)
 
@@ -101,6 +117,8 @@ Security is integral at every stage:
 - **Incident Response**  
     A documented plan for data breaches or system failures ensures swift mitigation and regulatory compliance.
 
+[More...](docs/Security.md)
+
 ## [Risk Mitigation](docs/RiskMitigation.md)
 
 We employ strategies to address common and project-specific risks:
@@ -114,6 +132,8 @@ We employ strategies to address common and project-specific risks:
 - **Contingency Planning**  
     Maintain robust backups, a disaster recovery protocol, and clear workflows for critical system updates.
 
+[More...](docs/RiskMitigation.md)
+
 ## [Marketing](docs/Marketing.md)
 
 We plan a **multi-pronged marketing strategy** to engage educational stakeholders:
@@ -124,3 +144,5 @@ We plan a **multi-pronged marketing strategy** to engage educational stakeholder
     Enhanced visibility on Facebook, Instagram, and LinkedIn, supported by user testimonials once pilots are complete.
 - **Expansion Plans**  
     Upcoming language support, new AI features, and expanded user training resources to grow adoption and foster long-term retention.
+
+[More...](docs/Marketing.md)
