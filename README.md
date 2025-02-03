@@ -117,7 +117,7 @@ Security is integral at every stage:
 - **Incident Response**  
     A documented plan for data breaches or system failures ensures swift mitigation and regulatory compliance.
 
-[More...](docs/Security.md)
+[More...](docs/SecurityTxt.md)
 
 ## [Risk Mitigation](docs/RiskMitigation.md)
 
