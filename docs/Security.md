@@ -1,4 +1,4 @@
-[Back to Main README](../README.md)
+[Back to Main README](https://github.com/riosarah/AiKita/blob/main/README.md)
 
 
 ## Data Security
@@ -21,4 +21,4 @@
     Every element of the system is designed with GDPR compliance in mind, and comprehensive documentation of data handling practices will be maintained.
 
 ---
-[Back to Main README](../README.md)
+[Back to Main README](https://github.com/riosarah/AiKita/blob/main/README.md)
