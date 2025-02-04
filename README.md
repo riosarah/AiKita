@@ -1,3 +1,4 @@
+![Logo AiKita](img/Logo.png)
 # AiKita
 
 **Team members**
