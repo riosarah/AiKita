@@ -5,10 +5,6 @@ Target Group: Early Childhood Educators in Kindergarten
 The target group for this project consists of early childhood educators working in kindergarten settings. These professionals are responsible for the development, education, and care of children aged 3 to 6
 Early childhood educators play an important role in supporting children’s learning through play-based and structured activities. They monitor developmental milestones, document everyday behaviour and facilitate an environment that encourages growth. 
 
-<details>
-<summary>
-More Key Characteristics
-</summary>
   
 **Professional Background and Experience:**
   
@@ -42,6 +38,5 @@ More Key Characteristics
 The number of early childhood educators working in Austrian public or private kindergartens has been on the rise in the last decade. 
 Similar trends can be observed in Germany and Switzerland. 
 
-</details>
 
 [Back to Main README](../README.md)
