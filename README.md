@@ -63,7 +63,7 @@ As of 2022, the global AI in education market was valued at $2.5 billion. With a
 * Meetings will be held every two weeks on Microsoft Teams, with more frequent sessions as needed. 
 * Progress will be tracked via the timeline, regularly documented, and reviewed weekly.
   
-[More...](Planning.md)
+[More...](docs/Planning.md)
 
 ## [System Concepts](docs/SystemConcepts.md)
 
