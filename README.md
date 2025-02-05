@@ -6,12 +6,27 @@
 * Ralph Mann
 * Jürgen Huber
 
-  
-## [Project Overview](docs/ProjectOverviewAndObjectives.md)
+
+
+## Project Overview
+This software is designed to support educators in planning educational 
+processes based on children's behavior. By analysing observed behaviors with AI 
+and suggesting matching educational areas, goals, and activities, this software sets itself 
+apart from any other planning software currently available on the market for 
+the pedagogical sector
+
+
+ ![plantUML diagram of AiKita process](img/Process_uml.png)
+    
+
+## Objectives
 
 This project offers a **secure, AI-driven platform** tailored for early childhood education. By integrating **local data collection** (via Python + PyQt) with a **scalable cloud backend** (Django, Celery, SQL/NoSQL databases), the solution empowers educators and administrators to gather real-time insights, comply with **GDPR**, and adhere to **Austrian educational standards**.
 
-[More...](docs/ProjectOverviewAndObjectives.md)
+Our software is designed to actively support educators in their daily work in kindergarten. 
+It aims to address the most important core tasks of educators: recording children's behaviour 
+and planning targeted pedagogical impulses. 
+
 
 ## [Initial Situation](docs/InitialSituation.md)
 
