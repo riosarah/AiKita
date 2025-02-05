@@ -16,6 +16,10 @@ There is a growing interest in digital tools for early childhood education, but 
 Many kindergartens already use organizational software and online platforms for lesson plans, but there is a lack of AI-powered tools to support educators.
 There are concerns about the cost of implementing new technologies and the potential for bias in AI algorithms.
 
+The global AI in education market was worth £2.5 billion in 2022 and is expected to reach $6 billion by 2025.
+Around two-fifths (44%) of children actively engage with generative AI, with more than half (54%) using it for schoolwork and/or homework.
+Around half (51%) of teachers feel that the use of AI in education will have a positive impact, compared to just over a fifth (21%) who hold negative views.
+
 <details>
 <summary>More on AI development in early education</summary>
 
