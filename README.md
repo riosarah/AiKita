@@ -57,10 +57,14 @@ This project focuses on early childhood educators working with children aged 3 t
 
 ## [Market Analysis](docs/MarketAnalysis.md)
 
-In general, the use and dissemination of digital tools for observing and documenting children's development is increasing worldwide in the early childhood sector.
+As of 2022, the global AI in education market was valued at $2.5 billion. With as many as 30 multi-million-dollar-funded AIED corporations, this figure is expected to reach $6 billion by 2025.
+
+In general, the use of digital tools for observing and documenting children's development is increasing worldwide in the early childhood sector.
 * German speaking markets lack behind international development
 * AI educational apps experience a boom
 * Competitive pressure low in pedagogy planning niche. Expected to rise.
+
+* ![Statistics on early childhood educators in austria](img/Kiga.png)
 
 [More...](docs/MarketAnalysis.md)
 
