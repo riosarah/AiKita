@@ -27,6 +27,8 @@ Our software is designed to actively support educators in their daily work in ki
 It aims to address the most important core tasks of educators: recording children's behaviour 
 and planning targeted pedagogical impulses. 
 
+![User Interface Excample](img/UI_Example.png)
+
 
 ## [Initial Situation](docs/InitialSituation.md)
 Early childhood educators (ECE) are facing **increasing demands** that have left them stressed and resorting to use unpaid overtime to meet legal requirenments.
