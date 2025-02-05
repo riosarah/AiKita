@@ -6,15 +6,19 @@
 
 The increasing amount of written documentation, which has been mandated in recent years, has resulted in kindergarten teachers having barely enough time to prepare. This is leading to increased stress and a need to work overtime, leaving less and less time for rest and recovery. 
 
-<details>
-<summary> Read more about the struggles ECEs face </summary>
 
 Additionally, **parents' expectations** of kindergartens are constantly rising, demanding optimal preparation for their children's schooling.
 Kindergarten teacher and personnel representative Julia Fichtl reports regular overtime and parents who are making ever more demands. Nothing that is offered in kindergarten in terms of educational activities is by chance, explains Julia Fichtl in an interview in 2018 with oegb.at.
 *["Arbeitsbelastund in kindergaerten nimmt zu."(Fichtl, 2018)](https://sofair-fsg.at/arbeitsbelastung-in-kindergaerten-nimmt-zu/)*
 
+**Time usage for admin tasks**
+![Time usage for Admin tasks](../img/TimeUsageForAdminTasks.png)
+
 A recent survey by the union "yunion" shows that **three-quarters of kindergarten teachers** in Salzburg have to use their **private time for administrative tasks**, as the legally mandated preparation time is insufficient. Special kindergarten teacher Katrin Fuchsbauer criticizes the fact that despite years of demands, the framework conditions have not been improved. In addition to the increasing number of administrative tasks, such as language observation sheets, parent-teacher conferences, and the aftereffects of the Corona pandemic, also require more time. The insufficient relief leads to overload and dangerous situations in everyday kindergarten life.
 *Kronen Zeitung (2023, September 21). ["Pädagoginnen fehlt Zeit, um Arbeit vorzubereiten."]( https://de.wiktionary.org/wiki/einf%C3%BCgen) Retrieved on [31.01.2025]*
+
+**Availability of resources**
+![Availability of Resources](../img/AvailabilityOfResources.png)
 
 SALZBURG. 6,000 early childhood educators participated in an Austria-wide online survey conducted by the union "yunion" in July and August 2023. 
 Acording to the survey the high workload could also be due to the preparation time, which, according to the respondents, often has to take place in (unpaid) private time, as three-quarters of the respondents stated that they do not have enough time available with the preparation time provided. Moreover, only half of the respondents had the necessary resources available in their workplace. Another quarter stated that although the resources were available, they were not really usable, which is why many preparations had to be done largely with their own phone, computer, and printer.
@@ -25,8 +29,6 @@ A Publication of AKH 2021 on working conditions in child education and care stat
 The group-work-free service time is the time that pedagogical professionals have available to, among other things, prepare educational work - which is why the time is often referred to as "preparation time". In addition, this time is intended for administrative tasks, cooperation with parents, meetings, and further training. In kindergartens and day-care centers, almost **80 percent of respondents** state that the **group-work-free service time is insufficient**, and in crèches, it is even more than 90 percent. Almost three-quarters of respondents are of the opinion that the **amount of administrative duties (documentation, office work, etc.) is too high**. Among the heads and deputy heads, around 87 percent even find this to be the case. Around one third finds that there is too little time for team meetings.
 *["Broschuerenratgeber - beruf und familie"](https://ooe.arbeiterkammer.at/service/broschuerenundratgeber/berufundfamilie/B_2021_Kinderbetreuung.pdf)*
 
-
-</details>
 
 ![Preparation time insufficient for ECE workers](../img/VorbereitungszeitDiagram.png)
 
