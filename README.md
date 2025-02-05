@@ -25,8 +25,6 @@ Our software is designed to actively support educators in their daily work in ki
 It aims to address the most important core tasks of educators: recording children's behaviour 
 and planning targeted pedagogical impulses. 
 
-![User Interface Excample](img/UI_Example.png)
-
 This project offers a **secure, AI-driven platform** tailored for early childhood education. By integrating **local data collection** (via Python + PyQt) with a **scalable cloud backend** (Django, Celery, SQL/NoSQL databases), the solution empowers educators and administrators to gather real-time insights, comply with **GDPR**, and adhere to **Austrian educational standards**.
 
 ## [Initial Situation](docs/InitialSituation.md)
@@ -98,6 +96,9 @@ Our approach prioritizes **user-friendliness** and **accessibility**, featuring:
 - **Intuitive UI & Guided Tutorials**: Clear navigation, context-sensitive help, and step-by-step onboarding.
 - **Customizable Settings**: Adjustable fonts, contrast options, and language expansions to serve diverse user needs.
 - **Inclusive Education**: Compatibility with assistive technologies, ensuring educators, parents, and staff with varying digital literacy levels can effectively use the software.
+
+ 
+![User Interface Excample](img/UI_Example.png)
 
 [More...](docs/UserExperienceAndDesignPrinciples.md)
 
