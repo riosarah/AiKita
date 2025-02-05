@@ -36,15 +36,9 @@ Early childhood educators (ECE) are facing **increasing demands** that have left
 
 * The **shortage of skilled educators** has lead to a growing number of unqualified personel leading kindergarten groups, who are taking on pedagogical tasks without sufficient training.
 
-![Preparation time insufficient for ECE workers](img/VorbereitungszeitDiagram.png)
+![Preparation time insufficient for ECE workers](img/PlanningTime.png)
 
 *Publication of AKH 2021 on working conditions in child education and care*
-```Description Diagram:
-Is the allocated childfree time (a.k.a planing time) sufficiant?
-6,5 % Yes
-93,5 % No
-```
-
 
 [More...](docs/InitialSituation.md)
 
