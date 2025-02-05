@@ -21,21 +21,18 @@ the pedagogical sector
 
 ## Objectives
 
-This project offers a **secure, AI-driven platform** tailored for early childhood education. By integrating **local data collection** (via Python + PyQt) with a **scalable cloud backend** (Django, Celery, SQL/NoSQL databases), the solution empowers educators and administrators to gather real-time insights, comply with **GDPR**, and adhere to **Austrian educational standards**.
-
 Our software is designed to actively support educators in their daily work in kindergarten. 
 It aims to address the most important core tasks of educators: recording children's behaviour 
 and planning targeted pedagogical impulses. 
 
 ![User Interface Excample](img/UI_Example.png)
 
+This project offers a **secure, AI-driven platform** tailored for early childhood education. By integrating **local data collection** (via Python + PyQt) with a **scalable cloud backend** (Django, Celery, SQL/NoSQL databases), the solution empowers educators and administrators to gather real-time insights, comply with **GDPR**, and adhere to **Austrian educational standards**.
 
 ## [Initial Situation](docs/InitialSituation.md)
 Early childhood educators (ECE) are facing **increasing demands** that have left them stressed and resorting to use unpaid overtime to meet legal requirenments.
 
-* Almost 80 percent of kindergarten teachers state that the **group-work-free service time**, that pedagogical professionals have available to prepare educational work, do administrative tasks, work on cooperation with parents, hold meetings, and attend further training is **insufficient**.
-
-* Pedagogical preparation time is legally mandated in Austria, but the exact implementation varies across federal states and can be as little as 5 hours. 
+* Over 90 percent of kindergarten teachers state that the **group-work-free service time**, that pedagogical professionals have available to prepare educational work is **insufficient**.
 
 * The **shortage of skilled educators** has lead to a growing number of unqualified personel leading kindergarten groups, who are taking on pedagogical tasks without sufficient training.
 
@@ -59,9 +56,8 @@ This project focuses on early childhood educators working with children aged 3 t
 
 ## [Market Analysis](docs/MarketAnalysis.md)
 
-As of 2022, the global AI in education market was valued at $2.5 billion. With as many as 30 multi-million-dollar-funded AIED corporations, this figure is expected to reach $6 billion by 2025.
+As of 2022, the global AI in education market was valued at $2.5 billion. With as many as 30 multi-million-dollar-funded AIED corporations, this figure is expected to reach $6 billion by 2025. In general, the use of digital tools for observing and documenting children's development is increasing worldwide in the early childhood sector.
 
-In general, the use of digital tools for observing and documenting children's development is increasing worldwide in the early childhood sector.
 * German speaking markets lack behind international development
 * AI educational apps experience a boom
 * Competitive pressure low in pedagogy planning niche. Expected to rise.
