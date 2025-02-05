@@ -15,7 +15,7 @@ and suggesting matching educational areas, goals, and activities, this software 
 apart from any other planning software currently available on the market for 
 the pedagogical sector
 
-
+### How AiKita supports educators during the pedagogical planning process
  ![plantUML diagram of AiKita process](img/Process_uml.png)
     
 
@@ -29,8 +29,7 @@ and planning targeted pedagogical impulses.
 
 
 ## [Initial Situation](docs/InitialSituation.md)
-
-* Early childhood educators (ECE) are facing **increasing demands** that have left them stressed and resorting to use unpaid overtime to meet legal requirenments.
+Early childhood educators (ECE) are facing **increasing demands** that have left them stressed and resorting to use unpaid overtime to meet legal requirenments.
 
 * Almost 80 percent of kindergarten teachers state that the **group-work-free service time**, that pedagogical professionals have available to prepare educational work, do administrative tasks, work on cooperation with parents, hold meetings, and attend further training is **insufficient**.
 
