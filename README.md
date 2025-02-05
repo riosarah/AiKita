@@ -153,7 +153,7 @@ Security is integral at every stage:
 --> Add here
 
 
-###Risk Mitigation
+### Risk Mitigation
 We employ strategies to address common and project-specific risks:
 
 - **Infrastructure Reliance**  
