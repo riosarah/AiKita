@@ -30,14 +30,23 @@ and planning targeted pedagogical impulses.
 
 ## [Initial Situation](docs/InitialSituation.md)
 
-Early childhood educators (ECE) are facing increasing demands that have left them stressed and resorting to use unpaid overtime to meet legal requirenments.
-The time varies across states and can be as little as 5 hours. 
-It includes:
-* preparation and coordination of educational and upbringing work
-* further training
-* parent counseling
-* administrative tasks
-* individual intervention planning
+* Early childhood educators (ECE) are facing **increasing demands** that have left them stressed and resorting to use unpaid overtime to meet legal requirenments.
+
+* Almost 80 percent of kindergarten teachers state that the **group-work-free service time**, that pedagogical professionals have available to prepare educational work, do administrative tasks, work on cooperation with parents, hold meetings, and attend further training is **insufficient**.
+
+* Pedagogical preparation time is legally mandated in Austria, but the exact implementation varies across federal states and can be as little as 5 hours. 
+
+* The **shortage of skilled educators** has lead to a growing number of unqualified personel leading kindergarten groups, who are taking on pedagogical tasks without sufficient training.
+
+![Preparation time insufficient for ECE workers](img/VorbereitungszeitDiagram.png)
+
+*Publication of AKH 2021 on working conditions in child education and care*
+```Description Diagram:
+Is the allocated childfree time (a.k.a planing time) sufficiant?
+6,5 % Yes
+93,5 % No
+```
+
 
 [More...](docs/InitialSituation.md)
 
