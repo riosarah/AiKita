@@ -66,6 +66,13 @@ As of 2022, the global AI in education market was valued at $2.5 billion. With a
 
 [More...](docs/MarketAnalysis.md)
 
+## [Planning](docs/Planning.md)
+* The team plans weekly programming sessions until August, along with additional training in AI implementation. 
+* Meetings will be held every two weeks on Microsoft Teams, with more frequent sessions as needed. 
+* Progress will be tracked via the timeline, regularly documented, and reviewed weekly.
+  
+[More...](Planning.md)
+
 ## [System Concepts](docs/SystemConcepts.md)
 
 Our architecture is composed of distinct yet interconnected components:
