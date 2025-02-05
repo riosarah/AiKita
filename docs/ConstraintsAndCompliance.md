@@ -45,7 +45,8 @@
 
 - **Project Timeline**  
     A detailed project schedule with clear milestones and deadlines will help track progress and ensure timely delivery.
-More on this in [Planning](doc/Planning.md)
+  
+[More on this in Planning...](doc/Planning.md)
 
 ## Stakeholder Engagement
 
