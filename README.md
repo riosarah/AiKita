@@ -19,7 +19,7 @@ the pedagogical sector
  ![plantUML diagram of AiKita process](img/Process_uml.png)
     
 
-## Objectives
+## Objectives and Goals
 
 Our software is designed to actively support educators in their daily work in kindergarten. 
 It aims to address the most important core tasks of educators: recording children's behaviour 
