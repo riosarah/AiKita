@@ -1,3 +1,5 @@
+[Back to Main README](../README.md)
+
 # Project Timeline: 
 ### Q1: Laying the foundation
 *	January 1 - January 14: goal definition, market analysis
@@ -54,3 +56,7 @@ Testing Phases
 *	Process documentation
 *	Weekly reviews and adjustments to timeline if necessary
 *	Potentially implementing Scrum
+
+---
+
+[Back to Main README](../README.md)
