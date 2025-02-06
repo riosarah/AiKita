@@ -36,17 +36,14 @@ Early childhood educators (ECE) are facing **increasing demands** that have left
 Our software is designed to actively support educators in their daily work in kindergarten. 
 It aims to address the most important core tasks of educators: recording children's behaviour 
 and planning targeted pedagogical impulses. 
-
-This project offers a **secure, AI-driven platform** tailored for early childhood education. By integrating **local data collection** (via Python + PyQt) with a **scalable cloud backend** (Django, Celery, SQL/NoSQL databases), the solution empowers educators and administrators to gather real-time insights, comply with **GDPR**, and adhere to **Austrian educational standards**.
-
-
-
-* By supporting educators during the planning process AiKita can cut down on pedagogical planing time significantly.
-* AiKita helps educators without sufficient training understand the planning process. By providing insight through the invaluable planning excamples gathered from experienced educators in our Databases, they can improve their own understanding.
-
   
 ### How AiKita supports educators during the pedagogical planning process
  ![plantUML diagram of AiKita process](img/Process_uml.png)
+
+ 
+
+* By supporting educators during the planning process AiKita can cut down on pedagogical planing time significantly.
+* AiKita helps educators without sufficient training understand the planning process. By providing insight through the invaluable planning excamples gathered from experienced educators in our Databases, they can improve their own understanding.
 
 ## [Target Group](docs/TargetGroup.md)
 
