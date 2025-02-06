@@ -223,7 +223,8 @@ Security is integral at every stage:
 ## [Opportunities and Risks](docs/RiskMitigation.md)
 ### Opportunities
 
---> Add here
+- By supporting educators during the planning process AiKita can cut down on pedagogical planing time significantly.
+- support uneducated staff
 
 
 ### Risk Mitigation
