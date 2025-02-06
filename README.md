@@ -16,7 +16,7 @@ apart from any other planning software currently available on the market for
 the pedagogical sector
 
 
-## [Initial Situation](docs/InitialSituation.md)
+## Initial Situation
 Early childhood educators (ECE) are facing **increasing demands** that have left them stressed and resorting to use unpaid overtime to meet legal requirenments.
 
 * Over 90 percent of kindergarten teachers state that the **group-work-free service time**, that pedagogical professionals have available to prepare educational work is **insufficient**.
@@ -45,13 +45,13 @@ and planning targeted pedagogical impulses.
 * By supporting educators during the planning process AiKita can cut down on pedagogical planing time significantly.
 * AiKita helps educators without sufficient training understand the planning process. By providing insight through the invaluable planning excamples gathered from experienced educators in our Databases, they can improve their own understanding.
 
-## [Target Group](docs/TargetGroup.md)
+## Target Group
 
 This project focuses on early childhood educators working with children aged 3 to 6 in kindergarten settings. These professionals support learning through play-based and structured activities, monitor developmental milestones, document behavior, and create an environment that fosters growth.
 
 [More...](docs/TargetGroup.md)
 
-## [Market Analysis](docs/MarketAnalysis.md)
+## Market Analysis
 
 As of 2022, the global AI in education market was valued at $2.5 billion. With as many as 30 multi-million-dollar-funded AIED corporations, this figure is expected to reach $6 billion by 2025. In general, the use of digital tools for observing and documenting children's development is increasing worldwide in the early childhood sector.
 
@@ -70,7 +70,7 @@ As of 2022, the global AI in education market was valued at $2.5 billion. With a
   
 [More...](docs/Planning.md)
 
-## [System Concepts](docs/SystemConcepts.md)
+## System Concepts
 
 Our architecture is composed of distinct yet interconnected components:
 
@@ -94,7 +94,7 @@ Our architecture is composed of distinct yet interconnected components:
 
 [More...](docs/SystemConcepts.md)
 
-## [User Experience and Design Principles](docs/UserExperienceAndDesignPrinciples.md)
+## User Experience and Design Principles
 
 Our approach prioritizes **user-friendliness** and **accessibility**, featuring:
 
@@ -107,7 +107,7 @@ Our approach prioritizes **user-friendliness** and **accessibility**, featuring:
 
 [More...](docs/UserExperienceAndDesignPrinciples.md)
 
-## [Financial and Monetization Strategy](docs/FinancialAndMonetizationStrategy.md)
+## Financial and Monetization Strategy
 
 To ensure the project’s viability, we employ multiple revenue streams:
 
@@ -122,7 +122,7 @@ To ensure the project’s viability, we employ multiple revenue streams:
 
 [More...](docs/FinancialAndMonetizationStrategy.md)
 
-## [Constraints and Compliance](docs/ConstraintsAndCompliance.md)
+## Constraints and Compliance
 
 Key constraints reflect the **technical, legal, and operational** environment:
 
@@ -137,7 +137,7 @@ Key constraints reflect the **technical, legal, and operational** environment:
 
 [More...](docs/ConstraintsAndCompliance.md)
 
-## [Security](docs/SecurityTxt.md)
+## Security
 
 Security is integral at every stage:
 
@@ -152,7 +152,7 @@ Security is integral at every stage:
 
 [More...](docs/SecurityTxt.md)
 
-## [Opportunities and Risks](docs/RiskMitigation.md)
+## Opportunities and Risks
 ### Opportunities
 
 - **Market Differentiation**  
@@ -176,7 +176,7 @@ We employ strategies to address common and project-specific risks:
 
 [More...](docs/RiskMitigation.md)
 
-## [Marketing](docs/Marketing.md)
+## Marketing
 
 We plan a **multi-pronged marketing strategy** to engage educational stakeholders:
 
