@@ -72,7 +72,7 @@ As of 2022, the global AI in education market was valued at $2.5 billion. With a
 
 ## System Concepts
 
-[Graphic Overview](img/overview_system_concepts.png)
+![Graphic Overview](img/overview_system_concepts.png)
 
 
 Our architecture is composed of distinct yet interconnected components:
