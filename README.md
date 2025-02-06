@@ -15,17 +15,6 @@ and suggesting matching educational areas, goals, and activities, this software 
 apart from any other planning software currently available on the market for 
 the pedagogical sector
 
-### How AiKita supports educators during the pedagogical planning process
- ![plantUML diagram of AiKita process](img/Process_uml.png)
-    
-
-## Objectives and Goals
-
-Our software is designed to actively support educators in their daily work in kindergarten. 
-It aims to address the most important core tasks of educators: recording children's behaviour 
-and planning targeted pedagogical impulses. 
-
-This project offers a **secure, AI-driven platform** tailored for early childhood education. By integrating **local data collection** (via Python + PyQt) with a **scalable cloud backend** (Django, Celery, SQL/NoSQL databases), the solution empowers educators and administrators to gather real-time insights, comply with **GDPR**, and adhere to **Austrian educational standards**.
 
 ## [Initial Situation](docs/InitialSituation.md)
 Early childhood educators (ECE) are facing **increasing demands** that have left them stressed and resorting to use unpaid overtime to meet legal requirenments.
@@ -39,6 +28,25 @@ Early childhood educators (ECE) are facing **increasing demands** that have left
 *Publication of AKH 2021 on working conditions in child education and care*
 
 [More...](docs/InitialSituation.md)
+
+   
+
+## Objectives and Goals
+
+Our software is designed to actively support educators in their daily work in kindergarten. 
+It aims to address the most important core tasks of educators: recording children's behaviour 
+and planning targeted pedagogical impulses. 
+
+This project offers a **secure, AI-driven platform** tailored for early childhood education. By integrating **local data collection** (via Python + PyQt) with a **scalable cloud backend** (Django, Celery, SQL/NoSQL databases), the solution empowers educators and administrators to gather real-time insights, comply with **GDPR**, and adhere to **Austrian educational standards**.
+
+
+
+* By supporting educators during the planning process AiKita can cut down on pedagogical planing time significantly.
+* AiKita helps educators without sufficient training understand the planning process. By providing insight through the invaluable planning excamples gathered from experienced educators in our Databases, they can improve their own understanding.
+
+  
+### How AiKita supports educators during the pedagogical planning process
+ ![plantUML diagram of AiKita process](img/Process_uml.png)
 
 ## [Target Group](docs/TargetGroup.md)
 
@@ -150,8 +158,11 @@ Security is integral at every stage:
 ## [Opportunities and Risks](docs/RiskMitigation.md)
 ### Opportunities
 
-- By supporting educators during the planning process AiKita can cut down on pedagogical planing time significantly.
-- support uneducated staff
+- **Market Differentiation**  
+    Pioneering AI-driven solutions in an under-served niche of the educational sector by offering a specialized tool for behavioral analysis in kindergartens.
+    
+- **Data-Driven Insights**  
+    Leveraging AI to uncover early-stage patterns, enabling more effective interventions and improved child development strategies.
 
 
 ### Risk Mitigation
