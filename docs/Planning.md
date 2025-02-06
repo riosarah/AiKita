@@ -51,6 +51,8 @@ Testing Phases
 *	4hrs weekly programming time till august
 *	Additional training in AI implementation
 *	Team meetings on Microsoft Teams every second Thursday – more frequently when necessary
+*	Bi-weekly alternation of remote and on-site meetings
+*	Timeline reassessment every two months
 * Software requirenments	See System concepts
 *	Process tracking – via timeline
 *	Process documentation
