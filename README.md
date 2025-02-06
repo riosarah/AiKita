@@ -71,7 +71,7 @@ As of 2022, the global AI in education market was valued at $2.5 billion. With a
 [More...](docs/Planning.md)
 
 ## System Concepts
-Below is a basic overview on important components of our system. For a more detailed explanation, please click here [More...](docs/SystemConcepts.md).
+Below is a basic overview on important components of our system. For a more detailed explanation, please click [here](docs/SystemConcepts.md).
 ![Graphic Overview](img/overview_system_concepts.png)
 
 Our architecture is composed of distinct yet interconnected components:
