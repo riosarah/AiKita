@@ -5,6 +5,10 @@
 
 
 
+This project offers a **secure, AI-driven platform** tailored for early childhood education. By integrating **local data collection** (via Python + PyQt) with a **scalable cloud backend** (Django, Celery, SQL/NoSQL databases), the solution empowers educators and administrators to gather real-time insights, comply with **GDPR**, and adhere to **Austrian educational standards**.
+
+
+
                      +-------------------------------------+
                      |      Local Client Application       |
                      |                                     |
